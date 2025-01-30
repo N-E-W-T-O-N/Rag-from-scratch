@@ -1,0 +1,10 @@
+[submodule "rag-fusion"]
+	path = rag-fusion
+	url = https://github.com/Raudaschl/rag-fusion
+[submodule "RAGatouille"]
+	path = RAGatouille
+	url = https://github.com/AnswerDotAI/RAGatouille
+
+[submodule "ColBERT-code"]
+	path = ColBERT
+	url = https://github.com/stanford-futuredata/ColBERT
